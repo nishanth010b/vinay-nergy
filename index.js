@@ -6,6 +6,7 @@ const solution = new Swiper('.swiper.is-solution', {
     slidesPerView: 1.5,
     centeredSlides: true,
     speed: 700,
+    keyboard: true,
     grabCursor: true,
     breakpoints: {
         992: {
